@@ -8,7 +8,7 @@ for selected classification algorithms, in order to identify the features that a
 The results are available in [our paper](https://lasp.unb.br/wp-content/uploads/papers/Karoll_CONTECSI15.pdf).
 
 -----
-**Citing Eigensim**:
+**Citing us**:
 
 If you consider our project in a scientific publication, we would appreciate citations to the following paper:
 
