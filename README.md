@@ -1,9 +1,9 @@
-Principal Component Analysis and Recursive Feature Elimination for Importance Analysis on Questionaries 
-=======================================================================================================
+Principal Component Analysis (PCA) and Recursive Feature Elimination (RFE) for Importance Analysis on Questionaries 
+===================================================================================================================
 -----
 
 This project evaluate critical success factors for an IT score, by means of Principal Component Analysis (PCA) and Recursive Feature Elimination (RFE) applied 
-for selected classification algorithms, in order to identify the features that are more discriminative and useful for prediction of the IT score given the questions responses. 
+for selected classification algorithms, in order to identify the features that are more discriminative and useful for prediction of the IT score, given the questions responses. 
 
 The results are available in [our paper](https://lasp.unb.br/wp-content/uploads/papers/Karoll_CONTECSI15.pdf).
 
